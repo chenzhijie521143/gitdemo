@@ -7,7 +7,7 @@ git-demo
 * QQ: 287759234
 * weibo: [@草依山](http://weibo.com/ihubo)
 * twitter: [@ihubo](http://twitter.com/ihubo)
-```php
+```git
   var ihubo = {
     nickName  : "草依山",
     site : "http://jser.me"
